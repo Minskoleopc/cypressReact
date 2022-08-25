@@ -1,0 +1,11 @@
+npx create-react-app my-app
+cd my-app
+npm start
+
+package.json ----> depencies and script tags
+package.lock.json --- update package
+
+
+// components
+
+stateless functional components    -------   stateful class components
